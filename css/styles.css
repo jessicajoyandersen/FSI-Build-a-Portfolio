@@ -1,0 +1,32 @@
+div
+{
+    background-color: plum;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+body 
+{
+    margin: auto;
+    width: 700px; 
+    padding: 0px;
+    font-family: 'Times New Roman', sans-serif; 
+    color: #000000;    
+}
+
+div.image
+{
+    text-align: center;
+}
+
+div.section
+{
+    text-align: center;
+}
+
+ul.list
+{
+    display: inline-block;
+    text-align: left;
+}
