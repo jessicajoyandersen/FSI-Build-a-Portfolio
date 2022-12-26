@@ -10,9 +10,8 @@ body
 {
     margin: auto;
     width: 700px; 
-    padding: 0px;
     font-family: 'Times New Roman', sans-serif; 
-    color: #000000;    
+    color: black;    
 }
 
 div.image
