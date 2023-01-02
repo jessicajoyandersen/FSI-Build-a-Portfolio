@@ -14,12 +14,7 @@ body
     color: black;    
 }
 
-div.image
-{
-    text-align: center;
-}
-
-div.section
+div.center
 {
     text-align: center;
 }
